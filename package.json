@@ -1,0 +1,15 @@
+{
+  "name": "serverwalkthrough",
+  "version": "1.0.0",
+  "description": "bluebadge_wk1_day2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "willsutton",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
